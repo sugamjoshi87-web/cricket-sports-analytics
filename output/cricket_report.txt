@@ -1,0 +1,59 @@
+CRICKET SPORTS ANALYTICS REPORT
+======================================
+
+TOP BATTERS
+-----------
+                      runs  balls_faced  fours  sixes  strike_rate  boundary_runs  boundary_percentage  runs_zscore
+batsman                                                                                                            
+Lahiru Milantha        293          224     35      9       130.80            194                66.21         3.03
+Ravi Bopara            286          211     24     11       135.55            162                56.64         2.93
+Rohit Paudel           279          212     26     11       131.60            170                60.93         2.84
+Saif Zaib              275          202     24     12       136.14            168                61.09         2.79
+James Neesham          247          126     14     23       196.03            194                78.54         2.41
+Binod Bhandari         235          213     19     10       110.33            136                57.87         2.24
+Dipendra Singh Airee   227          141     15     12       160.99            132                58.15         2.14
+Andries Gous           224          136     30      9       164.71            174                77.68         2.10
+Kushal Malla           223          184     11     15       121.20            134                60.09         2.08
+Brandon McMullen       201          161     10     11       124.84            106                52.74         1.79
+
+TOP BOWLERS
+-----------
+                  runs_conceded  legal_balls  wickets  overs_decimal  economy_rate  bowling_average
+bowler                                                                                             
+Scott Kuggeleijn            210          173       19           28.5          7.28            11.05
+Lalit Rajbanshi             213          240       17           40.0          5.32            12.53
+Rijan Dhakal                232          173       16           28.5          8.05            14.50
+Sohail Tanvir               174          182       15           30.2          5.74            11.60
+Kishore Mahato              264          198       15           33.0          8.00            17.60
+Karan KC                    151          143       14           23.5          6.34            10.79
+Bipin Sharma                171          174       13           29.0          5.90            13.15
+Saif Zaib                   151          145       13           24.1          6.25            11.62
+Nandan Yadav                177          141       13           23.3          7.53            13.62
+Mohammad Mohsin             200          207       12           34.3          5.80            16.67
+
+TEAM STATISTICS
+---------------
+                     batter_runs  total_runs  extras  matches
+batting_team                                                 
+Sudurpaschim Royals         1294        1369      75        9
+Janakpur Bolts              1188        1295     107       10
+Karnali Yaks                1112        1181      69        9
+Chitwan Rhinos              1098        1165      67        8
+Lumbini Lions                933        1012      79        7
+Biratnagar Kings             885         972      87        7
+Pokhara Avengers             848         916      68        7
+Kathmandu Gurkhas            779         824      45        7
+
+TEAM NRR
+--------
+                     runs_for  overs_faced  runs_against  overs_bowled    NRR
+team                                                                         
+Sudurpaschim Royals      1369       173.83          1116        179.33  1.652
+Chitwan Rhinos           1165       157.17          1119        159.83  0.411
+Janakpur Bolts           1295       182.00          1384        198.50  0.143
+Karnali Yaks             1181       174.83          1154        169.00 -0.073
+Kathmandu Gurkhas         824       131.83           872        133.00 -0.306
+Lumbini Lions            1012       140.00          1053        136.67 -0.476
+Biratnagar Kings          972       139.83          1023        133.67 -0.702
+Pokhara Avengers          916       136.83          1013        126.33 -1.324
+
